@@ -1,10 +1,10 @@
-**Uber Supply-Demand Gap Analysis**
+# **Uber Supply-Demand Gap Analysis**
 
 A complete end-to-end analysis of Uber’s supply–demand gap using SQL, Python, Excel Dashboard.
 
 This projects analyse Uber ride request data from July 11-16,2016.
 
-**The analysis involved**
+## **The analysis involved**
 
 ✅ Python (Pandas, Seaborn) for EDA 
 
@@ -12,7 +12,7 @@ This projects analyse Uber ride request data from July 11-16,2016.
 
 ✅ Business recommendations to reduce gap by 30%
 
-**🔍 Key Findings Based on the SQL queries here are the insights uncovered:**
+## **🔍 Key Findings Based on the SQL queries here are the insights uncovered:**
 
 Trip Volumes Over Time A large number of trips clustered during peak hours. High frequency of requests on specific dates.
 
