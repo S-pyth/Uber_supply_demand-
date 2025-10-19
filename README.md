@@ -28,6 +28,6 @@ Not fulfilled due to unavailability of cars
 
 Data Quality Issues There were records with missing Request id and Status, which had to be deleted. Timestamps required standardization to DATETIME format.
 
-#**💡 Outcome**
+## **💡 Outcome**
 
 This comprehensive analysis highlighted operational inefficiencies, demand spikes, and resource constraints, forming the basis for actionable recommendations to optimize driver allocation and reduce customer cancellations by up to 30%.
